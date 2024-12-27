@@ -1,6 +1,7 @@
 # LangGraph Exercise
 
 ## Resources
+* [LangGraph Tutorials][7] 💖
 * [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
   *  `langgraph new ./test_app --template react-agent-python`
 * [The courses][1]
@@ -26,6 +27,4 @@
 [4]:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/agent-memory.ipynb
 [5]:https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58239303-lesson-8-intro-to-deployment
 [6]:https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#__tabbed_1_1
-
-
-langgraph new ./test_app --template react-agent-python 
+[7]:https://langchain-ai.github.io/langgraph/tutorials/#use-cases
