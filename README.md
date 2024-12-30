@@ -7,12 +7,12 @@
 
 
 ## Setup Notes
-* Python 3.11
-* Type `source setup.sh` 
+* Python >= 3.11
+* When needs local setup, type `source setup.sh` 
   * to set the environment variables
 
 
-## Learning Notes
+## Notes
 * [Here][3] explains how does <b>ReAct</b> work
 * [How to enable agent's memory][4]
 * [How to use LangSmith to deploy and host an agent from a github repo][5]
