@@ -4,9 +4,6 @@
 * [LangGraph Tutorials][7] 💖
 * [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
   *  `langgraph new ./test_app --template react-agent-python`
-* [The courses][1]
-  * [Modules][2]
-  * I don't like it 😵
 
 
 ## Setup Notes
