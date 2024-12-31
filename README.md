@@ -7,7 +7,7 @@
       * It checks overall retrieval relevancy, if not relevant, update the query and startover
       * Also shows how to use ToolNode and tools_condition
     * [Corrective RAG][8]
-      * When there's irrelevant retrieved document, the query will be written to search web resources, found web resources will be added into relevant document list to generate the final answer
+      * When there's at least 1 irrelevant retrieved document, the query will be written to search web resources, found web resources will be added into relevant document list to generate the final answer
 * [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
   *  `langgraph new ./test_app --template react-agent-python`
 
