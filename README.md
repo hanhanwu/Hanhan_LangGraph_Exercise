@@ -4,7 +4,8 @@
 * [LangGraph Tutorials][7]
   * The tutorials are either a bit out of dated or have problems, I made the improvement 💝
     * [Agentic RAG][9]
-      * It checks overall retrieval relevancy, if not relevant, update the query and startover 
+      * It checks overall retrieval relevancy, if not relevant, update the query and startover
+      * Also shows how to use ToolNode and tools_condition
     * [Corrective RAG][8]
       * When there's irrelevant retrieved document, the query will be written to search web resources, found web resources will be added into relevant document list to generate the final answer
 * [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
