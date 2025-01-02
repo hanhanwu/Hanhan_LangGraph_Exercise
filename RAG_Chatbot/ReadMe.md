@@ -8,7 +8,7 @@
 * [Corrective RAG][1]
   * <b>Adaptive Retriever</b>: it decides which retriever to use based on the number of documents
   * <b>Retrieval Relevancy Check</b>: it checks the relevancy of each retrieved document
-  * <b>Query Rewrite & Web Search</b>: when there's at least 1 irrelevant retrieved document, the query will be written to search web resources, selected web resources will be added into relevant document list to generate the final answer
+  * <b>Query Rewrite & Web Search</b>: when there's at least 1 irrelevant retrieved document, the query will be re-written to search web resources, selected web resources will be added into relevant document list to generate the final answer
 
 
 [1]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_corrective_rag.ipynb
