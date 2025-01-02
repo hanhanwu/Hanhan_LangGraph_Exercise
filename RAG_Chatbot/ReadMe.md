@@ -9,7 +9,10 @@
   * <b>Adaptive Retriever</b>: it decides which retriever to use based on the number of documents
   * <b>Retrieval Relevancy Check</b>: it checks the relevancy of each retrieved document
   * <b>Query Rewrite & Web Search</b>: when there's at least 1 irrelevant retrieved document, the query will be re-written to search web resources, selected web resources will be added into relevant document list to generate the final answer
-
+ 
+## Performance Evaluaton
+* [Performance Monitoring & Comparison with LangSmith][3]
 
 [1]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_corrective_rag.ipynb
 [2]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_langgraph_agentic_rag.ipynb
+[3]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_langsmith_model_comparison.ipynb
