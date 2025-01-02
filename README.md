@@ -2,12 +2,8 @@
 
 ## Resources
 * [LangGraph Tutorials][7]
-  * The tutorials are either a bit out of dated or have problems, I made the improvement 💝
-    * [Agentic RAG][9]
-      * It checks overall retrieval relevancy, if not relevant, update the query and startover
-      * Also shows how to use ToolNode and tools_condition
-    * [Corrective RAG][8]
-      * When there's at least 1 irrelevant retrieved document, the query will be written to search web resources, found web resources will be added into relevant document list to generate the final answer
+  * The tutorials are either a bit out of dated or have problems, I made the improvement [in my notebooks][8] 💝
+
 * [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
   *  `langgraph new ./test_app --template react-agent-python`
 
@@ -31,5 +27,5 @@
 [5]:https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58239303-lesson-8-intro-to-deployment
 [6]:https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#__tabbed_1_1
 [7]:https://langchain-ai.github.io/langgraph/tutorials/#use-cases
-[8]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_corrective_rag.ipynb
-[9]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_langgraph_agentic_rag.ipynb
+[8]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/ReadMe.md
+
