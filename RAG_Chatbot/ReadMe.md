@@ -1,4 +1,6 @@
 # Explore RAG Chatbot Solutions
+## RAG Alternatives
+* [CAG (Cache-augmented generation), a faster alternative for RAG][4]
 
 ## Agentic RAGs
 * [Basic Agentic RAG][2]
@@ -16,3 +18,4 @@
 [1]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_corrective_rag.ipynb
 [2]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_langgraph_agentic_rag.ipynb
 [3]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_langsmith_model_comparison.ipynb
+[4]:https://medium.com/@ronantech/cache-augmented-generation-cag-in-llms-a-step-by-step-tutorial-6ac35d415eec
