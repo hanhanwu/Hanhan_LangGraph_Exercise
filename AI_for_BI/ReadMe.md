@@ -1,6 +1,7 @@
 # AI for BI
 
 * [How to Run DeepSeek R1 through vLLM][2]
+  * On Google Colab, at least needs T4 GPU as runtime 
 
 * [SQL Agent with OpenAI][1]
   * This agent can write SQL, execute SQL, rewrite failed SQL, output results 
