@@ -2,7 +2,7 @@
 
 ## Resources
 * [LangGraph Tutorials][7]
-  * The tutorials are either a bit out of dated or have problems, I made the improvement [in my notebooks][8] 💝
+  * <b>I write better agents</b> than LangGraph's tutorials [in my notebooks][8] 💝
 
 * [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
   *  `langgraph new ./test_app --template react-agent-python`
