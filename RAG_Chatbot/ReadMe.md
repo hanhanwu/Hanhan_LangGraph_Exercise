@@ -28,4 +28,4 @@
 [3]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/try_langsmith_model_comparison.ipynb
 [4]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/rag_chatbot_with_memory.ipynb
 [5]:https://langfuse.com/self-hosting/local
-[6]:https://github.com/langfuse/langfuse-docs/tree/main/cookbook
+[6]:https://langfuse.com/guides/cookbook
