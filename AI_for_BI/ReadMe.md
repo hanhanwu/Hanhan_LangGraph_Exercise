@@ -22,7 +22,10 @@
     * Feedback Loops for Self-Tuning: reinforced fine-tuning on samples that the model initially failed to answer well.
   * [Lamini has a very good webinar for text-to-sql][8]
     * Passcode: `1ki=KEnN`
-    *  
+    * [Create small datasets for extreme accuracy][9], [expand training datasets][10]
+      * create concepts for embedding
+      * add questions, concepts
+    * [Lamini open source library][7] 
   * [Some lessons learned from Timescale][5]
 
 
@@ -34,3 +37,5 @@
 [6]:https://arxiv.org/pdf/2504.07934
 [7]:https://docs.lamini.ai/memory_experiments/txt2sql/#3-analyze-generated-data
 [8]:https://zoom.us/rec/play/X4cPd5x6BdNbIJ8KiaKaenYgX6BLg9iLH37ci9pTTM7-l4IqaEh5y1fRu9NmvPC-xBADN2W5R8WskWkK.ifiHi6Slp99NHbCL?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1746032175000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FiUlhM7OoVtEn46dcTA7Ls7IFFQe-1-VUGyoPlF4uWo75zsHCwY7gtbtV7opqQUNM.BPjZ0DZ2_4mmBfv7%3FstartTime%3D1746032175000
+[9]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/AI_for_BI/images/1.png
+[10]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/AI_for_BI/images/2.png
