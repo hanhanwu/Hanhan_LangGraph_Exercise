@@ -1,18 +1,13 @@
 # LangGraph Exercise
 
-## Resources
-* [LangGraph Tutorials][7]
-  * <b>I write better agents</b> than LangGraph's tutorials [in my notebooks][8] 💝
-
-* [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
-  *  `langgraph new ./test_app --template react-agent-python`
-
+## [My Notebooks][8] 💝
 
 ## Setup Notes
 * Python >= 3.11
 * When needs local setup, type `source setup.sh` 
   * to set the environment variables
-
+* [How to Launch Local LangGraph Server and LangGraph Studio WebUI][6]
+  *  `langgraph new ./test_app --template react-agent-python`
 
 ## Notes
 * [Here][3] explains how does <b>ReAct</b> work
@@ -26,6 +21,5 @@
 [4]:https://github.com/langchain-ai/langchain-academy/blob/main/module-1/agent-memory.ipynb
 [5]:https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58239303-lesson-8-intro-to-deployment
 [6]:https://langchain-ai.github.io/langgraph/tutorials/langgraph-platform/local-server/#__tabbed_1_1
-[7]:https://langchain-ai.github.io/langgraph/tutorials/#use-cases
 [8]:https://github.com/hanhanwu/Hanhan_LangGraph_Exercise/blob/main/RAG_Chatbot/ReadMe.md
 
